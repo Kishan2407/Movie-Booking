@@ -1,16 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-
-
+import Header from "./assets/common/header/Header.js";
 ReactDOM.render(
-<div>
-
-</div>,
+  <div>
+  <Header/>
+  </div>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-

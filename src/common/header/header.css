@@ -6,9 +6,8 @@
 #image{
     background-color: #FF7F7F;
     height: 35px;
-}
-img {
-    height: 50px;
+
+    height: 35px;
     width: 50px;
     animation: tt ;
     animation-duration: 8s;
